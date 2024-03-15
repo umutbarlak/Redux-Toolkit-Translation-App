@@ -1,9 +1,35 @@
-# React + Vite
+<h1>Redux Toolkit Translation App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje redux thunk kullanarak oluşturulmuş bir Çeviri projesidir.
 
-Currently, two official plugins are available:
+Kullanılan özellikler;
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Redux-Toolkit-Translation-App
+- Axios İstekleri
+
+- React-Redux
+
+- Redux-Toolkit
+
+- React-Select
+
+- Tailwind
+
+Projenin bize sunduğu özellikler;
+
+- 100 tane dilde çeviri
+
+- Diller arası geçiş kolaylığı
+
+- Çeviri bilgilerinin tersine döndürülmesi
+
+- Veri beklerken Loader ile görsellik oluşturma
+
+- Responsive tasarım
+
+<h2>Kullanılan Diller</h2>
+
+Bu projede React, Redux Redux-Toolkit kullanılmıştır
+
+<h2>Ekran Videosu</h2>
+
+![](translate.gif)
